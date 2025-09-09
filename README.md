@@ -1,6 +1,6 @@
 # start-demo
 this is my first git repository.
 <br>
-author-Priya sharma
+author-Priya sharma as a learner
 <br>
 Author-Sharma Family
